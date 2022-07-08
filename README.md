@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0ssss?tab=repositories](https://github.com/0ssss?tab=repositories)
 
-- 💬 Ask me about **C**
-
 - 📫 How to reach me **silvabotelhog@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/0ssss](https://github.com/0ssss)
